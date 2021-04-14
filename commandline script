@@ -1,7 +1,7 @@
 // 1. Installed mysql for windows 10
 //mysql workbench come up with default 3 schemas : 'sakila', 'sys' and 'world'
 
-// 2. Considered schema sakila. It  had already sample tables and values pre filled
+// 2. Considered schema sakila which comes as default with mysql workbench. It  had already sample tables and records pre populated
 
 // 3. Installed the xmysql 
 npm install -g xmysql
