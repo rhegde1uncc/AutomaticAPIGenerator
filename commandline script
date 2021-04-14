@@ -1,0 +1,13 @@
+// 1. Installed mysql for windows 10
+//mysql workbench come up with default 3 schemas : 'sakila', 'sys' and 'world'
+
+// 2. Considered schema sakila. It  had already sample tables and values pre filled
+
+// 3. Installed the xmysql 
+npm install -g xmysql
+
+// 4. Generated the API using command in the  format : xmysql -h localhost -u mysqlUsername -p mysqlPassword -d databaseName
+
+xmysql -h localhost -u root -p mysql -d mydatabase
+
+// 5. Tested API using postman referring  the REST API URL reference : https://github.com/o1lab/xmysql/
