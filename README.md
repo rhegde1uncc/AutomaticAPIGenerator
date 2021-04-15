@@ -14,3 +14,10 @@ Step 2: Generated the API automatically using below command
 step 3: APIs are accessible on localhost:3000
 
 ![Alt text](https://github.com/rhegde1uncc/AutomaticAPIGenerator/blob/main/GET%20sample.JPG "Sample API result screenshot")
+
+
+Other APIs format tried
+
+![Alt text](https://github.com/rhegde1uncc/AutomaticAPIGenerator/blob/main/result1.JPG "Sample API result type tried")
+
+![Alt text](https://github.com/rhegde1uncc/AutomaticAPIGenerator/blob/main/result2.JPG "Sample API result type tried")
